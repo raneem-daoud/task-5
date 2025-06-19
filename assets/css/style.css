@@ -142,6 +142,9 @@
         padding-top: 110px !important;
         padding-bottom: 18px !important;
     }
+    li a {
+        color: #343a40;
+    }
     ul li{
         padding-top: 24px !important;
     }
