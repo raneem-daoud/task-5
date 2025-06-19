@@ -90,14 +90,12 @@
     .carousel-indicators{
         bottom: -80px;
         .slider{
-            margin: 0 24px !important;
             width: 16px;
             height: 16px;
             border-radius: 50%;
             border: solid var(--mypurpel-btn);
         }
         .active{
-            margin: 0 24px !important;
             width: 24px;
             height: 24px;
             background-color: var(--mypurpel-btn);
